@@ -20,7 +20,7 @@
 - [Model & Data](#-model--data)
 - [Quick Start](#-quick-start)
 - [Contact](#-contact)
-- [Disclaimer](#️-disclaimer)
+- [Disclaimer](#-disclaimer)
 
 ---
 
@@ -117,7 +117,7 @@ pip install -r requirements.txt
 
 # Launch the app
 streamlit run app.py
-
+```
 ---
 
 ## 📧 Contact
@@ -128,6 +128,7 @@ GitHub: [github.com/PrabhanshuKamal2121](https://github.com/PrabhanshuKamal2121)
 
 ---
 
-### ⚖️ Disclaimer
+> 🚨 **DISCLAIMER:**  
+> This app is **for educational use only**. It is not a substitute for professional medical advice, diagnosis, or treatment.  
+> Always consult a qualified healthcare provider for medical recommendations.
 
-This app is **for educational use only**. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical recommendations.
