@@ -20,7 +20,6 @@
 - [Model & Data](#-model--data)
 - [Quick Start](#-quick-start)
 - [Contact](#-contact)
-- [Disclaimer](#-disclaimer)
 
 ---
 
