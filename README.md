@@ -1,4 +1,7 @@
 # ❤️ Heart Disease Predictor
+> A warm-gradient, responsive Streamlit app for instant heart disease risk prediction.
+
+![image alt](https://github.com/PrabhanshuKamal2121/Heart_Diesease-Predictor/blob/079336b5bb04f2aa2190df4241302c0b4378973d/heart-disease-predictor-TitleCard.png)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -6,7 +9,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-FFDB3A?style=for-the-badge&logo=python&logoColor=black)
 
-> A warm-gradient, responsive Streamlit app for instant heart disease risk prediction.
+
 
 ---
 
